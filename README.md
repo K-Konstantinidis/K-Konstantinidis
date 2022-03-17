@@ -1,7 +1,9 @@
 ### Hey there 👋 Thanks for checking my profile 🤗
 
 ✔ Sudent at the University Of Macedonia Greece 🎓
+
 ✔ Studying applied informatics 💻
+
 ✔ Specialization in information systems 👨‍💻
 
 ![K-Konstantinidis GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&show_icons=true&theme=blue-green)
