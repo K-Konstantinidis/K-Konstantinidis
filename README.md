@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Konstantinidis)](https://github.com/anuraghazra/github-readme-stats)
 
-Dynamic README.md stats made by: https://github.com/anuraghazra/github-readme-stats
+Dynamic README.md stats created by: https://github.com/anuraghazra/github-readme-stats
 
