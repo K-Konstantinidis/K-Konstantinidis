@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="170px" "height="80px">
+    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="140px">
   
   Thanks for checking my profile 🤗
 </h2>
