@@ -54,8 +54,7 @@
 <a href= https://www.codeblocks.org> <img width ='32px' src ='https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg'> </a>
 <a href= https://cawemo.com> <img width ='32px' src ='https://avatars.githubusercontent.com/u/19708735?s=200&v=4'> </a>
 <a href= http://dia-installer.de> <img width ='32px' src ='http://static.dia-installer.de/images/dia.png'> </a>
-
-
+<a href= https://www.microsoft.com/el-gr/microsoft-365/project/project-management-software> <img width ='32px' src ='https://el.wizcase.com/wp-content/uploads/2020/12/MS_Project_Logo.png'> </a>
 
 
 
