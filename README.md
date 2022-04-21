@@ -56,8 +56,6 @@
 <a href= http://dia-installer.de> <img width ='32px' src ='http://static.dia-installer.de/images/dia.png'> </a>
 <a href= https://www.microsoft.com/el-gr/microsoft-365/project/project-management-software> <img width ='32px' src ='https://el.wizcase.com/wp-content/uploads/2020/12/MS_Project_Logo.png'> </a>
 
-
-
 <h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width = 32px> </h2>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&count_private=true&show_icons=true&theme=blue-green" alt="K-Konstantinidis" align = "center"/>
