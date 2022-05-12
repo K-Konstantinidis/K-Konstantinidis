@@ -72,8 +72,8 @@
 
 <h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width = 32px> </h2>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&count_private=true&show_icons=true&theme=blue-green" alt="K-Konstantinidis" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=blue-green" alt="K-Konstantinidis" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple" alt="K-Konstantinidis" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=7" alt="K-Konstantinidis" align = "center"/></p>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
