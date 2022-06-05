@@ -1,10 +1,10 @@
 <h2 align="center">
-    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="140px">
+    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="140px" height="140px">
   
   Thanks for checking my profile 🤗
 </h2>
 
-<h3 align="center"><ins>About Me</ins> <img src = https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif width = 60px></h3>
+<h3 align="center"><ins>About Me</ins> <img src = https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif width="60px" height="40px"></h3>
  
 <p align="center">
 ✔ Student at the University Of Macedonia (UoM) in Greece <img src="https://www.uom.gr/site/images/logos/UOMLOGOGR.png" width="50px" height="30px"> </p>
@@ -16,7 +16,7 @@
 ✔ Specialization in information systems 💻 </p>
 
 
-<h2> My Tech Toolbox <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Tech Toolbox <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> </h2>
 
 - `Languages:` 
 <a href= https://www.java.com/en> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
@@ -69,13 +69,13 @@
 <a href= https://www.microsoft.com/el-gr/microsoft-365/project/project-management-software> <img width ='32px' src ='https://el.wizcase.com/wp-content/uploads/2020/12/MS_Project_Logo.png'> </a>
 
 
-<h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width = 32px> </h2>
+<h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width="32px" height="32px"> </h2>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="K-Konstantinidis" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=7" alt="K-Konstantinidis" align = "center"/></p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height="32px"> </h2>
                                                                                                                                        
 <a href='https://www.github.com/K-Konstantinidis'> <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a> 
 <a href=https://discord.com/channels/@me/459034063316058112> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
