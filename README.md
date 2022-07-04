@@ -68,12 +68,10 @@
 <a href= https://www.sap.com/index.html> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
 <a href= https://www.microsoft.com/el-gr/microsoft-365/project/project-management-software> <img width ='32px' src ='https://el.wizcase.com/wp-content/uploads/2020/12/MS_Project_Logo.png'> </a>
 
-
 <h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width="32px" height="32px"> </h2>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="K-Konstantinidis" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=7" alt="K-Konstantinidis" align = "center"/></p>
-
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px" height="32px"> </h2>
                                                                                                                                        
