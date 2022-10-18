@@ -69,7 +69,7 @@
 <h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width="32px" height="32px"> </h2>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Konstantinidis&hide_border=true&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="K-Konstantinidis" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=6" alt="K-Konstantinidis" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Konstantinidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=7" alt="K-Konstantinidis" align = "center"/></p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
                                                                                                                                        
