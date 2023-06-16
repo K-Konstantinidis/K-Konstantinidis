@@ -77,4 +77,4 @@
 <a href=https://discord.com/channels/@me/459034063316058112> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
 <a href= https://open.spotify.com/user/oqafqlcj2gctdthb04z96z6ab> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
 <a href="mailto:konstantinides.kon@gmail.com"> <img width ='32px' src ='https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png'> </a>
-<a href="https://www.linkedin.com/in/konstantinos-konstantinidis-7386a323a"> <img width ='32px' src ="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/konstantinos-konstantinidis-me"> <img width ='32px' src ="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"></a>
