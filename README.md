@@ -11,7 +11,7 @@
 <p align="center">
 ✔ Bachelor Of Applied Informatics 🎓 </p>
 <p align="center">
-✔ Thesis on how to develop a 2D Game Engine 💻 </p>
+✔ Thesis on how to develop a 2D Game Engine <a href= "https://dspace.lib.uom.gr/handle/2159/29862"> link</a> 💻 </p>
 
 <h2> My Tech Toolbox <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
