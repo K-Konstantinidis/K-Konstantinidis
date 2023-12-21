@@ -1,4 +1,4 @@
-<h2 align="center">
+![image](https://github.com/K-Konstantinidis/K-Konstantinidis/assets/89989912/e9033a11-c83c-4a46-98b2-2602b6f00e68)<h2 align="center">
     <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="140px" height="140px">
   
   Thanks for checking my profile 🤗
@@ -26,7 +26,7 @@
 <a href= https://www.php.net> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png'> </a>
 <a href= https://www.javascript.com> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://www.w3schools.com/sql> <img width ='32px' src ='https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png'> </a>
-<a href= https://www.uml.org> <img width ='32px' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
+<a href= https://www.uml.org> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/330px-UML_logo.svg.png'> </a>
 <a href= https://www.omg.org/dmn> <img width ='32px' src ='https://www.omg.org/images/logos/DMN-logo.png'> </a>
 
 - `IDE's:` 
