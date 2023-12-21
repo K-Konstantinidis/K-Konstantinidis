@@ -1,4 +1,4 @@
-![image](https://github.com/K-Konstantinidis/K-Konstantinidis/assets/89989912/e9033a11-c83c-4a46-98b2-2602b6f00e68)<h2 align="center">
+<h2 align="center">
     <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="140px" height="140px">
   
   Thanks for checking my profile 🤗
