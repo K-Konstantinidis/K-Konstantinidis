@@ -7,11 +7,11 @@
 <h3 align="center"><ins>About Me</ins> <img src = https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif width="60px"></h3>
  
 <p align="center">
-✔ Student at the University Of Macedonia (UoM) in Greece <img src="https://www.uom.gr/site/images/logos/UOMLOGOGR.png" width="50px" height="30px"> </p>
+✔ Graduated from University Of Macedonia (UoM) <img src="https://www.uom.gr/site/images/logos/UOMLOGOGR.png" width="50px" height="30px"> </p>
 <p align="center">
-✔ Studying applied informatics 🎓 </p>
+✔ Bachelor Of Applied Informatics 🎓 </p>
 <p align="center">
-✔ Specialization in information systems 💻 </p>
+✔ Thesis on how to develop a 2D Game Engine 💻 </p>
 
 <h2> My Tech Toolbox <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
@@ -41,7 +41,6 @@
 <a href= https://mariadb.org> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
 <a href= https://www.mongodb.com> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://www.postgresql.org> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://www.sqlite.org/index.html> <img width ='32px' src ='https://www.esoftner.com/wp-content/uploads/2019/12/SQLite.png'> </a>
 
 - `Tools:` 
 <a href= https://www.postman.com> <img width ='32px' src ='https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8'> </a>
