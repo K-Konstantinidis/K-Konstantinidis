@@ -11,7 +11,7 @@
 <p align="center">
 ✔ Bachelor Of Applied Informatics 🎓 </p>
 <p align="center">
-✔ Thesis on how to develop a 2D Game Engine <a target="_blank" href= "https://dspace.lib.uom.gr/handle/2159/29862"> link</a> 💻 </p>
+✔ <a target="_blank" href= "https://dspace.lib.uom.gr/handle/2159/29862"> Thesis</a> on how to develop a 2D Game Engine 💻 </p>
 
 <h2> My Tech Toolbox <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
@@ -55,11 +55,8 @@
 - `Others:` 
 <a href= https://www.bpmn.org> <img width ='32px' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 <a href= https://camunda.com> <img width ='32px' src ='https://docs.camunda.org/manual/7.16/img/Camunda-Circle.svg'> </a>
-<a href= https://rapidminer.com> <img width ='32px' src ='https://media.glassdoor.com/sql/884088/rapidminer-squareLogo-1653401494708.png'> </a>
 <a href= https://www.autodesk.com/products/3ds-max/overview> <img width ='32px' src ='https://seeklogo.com/images/1/3ds-max-logo-4C228D4A3D-seeklogo.com.png'> </a>
 <a href= https://www.adobe.com/products/photoshop.html> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
-<a href= https://kanbanize.com> <img width ='32px' src ='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png?auto=format&ixlib=react-9.0.3'> </a>
 <a href= https://slack.com> <img width ='32px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
 <a href= https://cawemo.com> <img width ='32px' src ='https://avatars.githubusercontent.com/u/19708735?s=200&v=4'> </a>
 <a href= https://www.sap.com/index.html> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
