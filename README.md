@@ -9,7 +9,7 @@
 <p align="center">
 ✔ Graduated from University Of Macedonia (UoM) <img src="https://www.uom.gr/site/images/logos/UOMLOGOGR.png" width="50px" height="30px"> </p>
 <p align="center">
-✔ Bachelor Of Applied Informatics 🎓 </p>
+✔ Bachelor in Computer Science 🎓 </p>
 <p align="center">
 ✔ <a target="_blank" href= "https://dspace.lib.uom.gr/handle/2159/29862"> Thesis</a> on how to develop a 2D Game Engine 💻 </p>
 
